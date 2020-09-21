@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces" showClockDomains="1" showResetDomains="0">
+  <columns>
+   <connections preferredWidth="143" />
+   <irq preferredWidth="34" />
+  </columns>
+ </systemtable>
+ <library
+   expandedCategories="Library/Interface Protocols,Library/Interface Protocols/PCI Express/QSYS Example Designs,Library,Library/Processors and Peripherals,Library/Interface Protocols/PCI Express,Library/Processors and Peripherals/Peripherals,Project" />
+ <window width="1853" height="1055" x="67" y="25" />
+ <hdlexample language="VHDL" />
+ <generation synthesis="VHDL" />
+</preferences>

@@ -1,0 +1,10 @@
+	component niosLab2 is
+		port (
+			clk_clk      : in  std_logic                    := 'X'; -- clk
+			dir_export   : in  std_logic                    := 'X'; -- export
+			en_export    : in  std_logic                    := 'X'; -- export
+			leds_export  : out std_logic_vector(5 downto 0);        -- export
+			motor_export : out std_logic_vector(3 downto 0)         -- export
+		);
+	end component niosLab2;
+
